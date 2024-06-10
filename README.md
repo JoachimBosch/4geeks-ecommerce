@@ -4,4 +4,6 @@
 2. Put data into state
 3. Render data usig cards/tables/... (whatever you like and fancy)
 4. Create an ipnut to filter the data (search field)
-5. FUZZY search (?)
+5. FUZZY search (bonus)
+6. Add items to list (bonus)
+   
